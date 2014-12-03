@@ -1,4 +1,4 @@
-Videojuegos
+Build Your Own Lisp 
 ===========
 
-Videojuegos Proyecto Final
+Tutorial seguido de libro: http://www.buildyourownlisp.com/
